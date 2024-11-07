@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<score bpm="60" beatspermeasure="4">
+     <instrument instrument="WavetableInstrument">
+		<wavetable>
+			<wav path="../wav/guitar1.wav"/>
+			<wav path="../wav/guitar2.wav"/>
+			<wav path="../wav/guitar3.wav"/>
+			<wav path="../wav/piano1.wav"/>
+			<wav path="../wav/piano2.wav"/>
+		</wavetable>
+          <note wave="1" beat="1" duration="0.33"/>
+          <note wave="2" beat="3" duration="0.33"/>
+          <note wave="3" beat="5" duration="0.33"/>
+          <note wave="4" beat="7" duration="0.33"/>
+          <note wave="5" beat="9" duration="0.33"/>
+	  
+     </instrument>
+</score>
+
